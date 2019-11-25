@@ -21,4 +21,4 @@ ccache clang main.c -lCUI -lpi -lop -lbst -L../obj -Wall -W -O3 -o ../bin/social
 
 # Run social_network
 cd ../bin
-./social_network #< ../lib/log/socialMediaLog.txt
+./social_network
