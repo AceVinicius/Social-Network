@@ -1,0 +1,135 @@
+createprofile
+vinicius
+createprofile
+duds
+createprofile
+parana
+addfriend 1 2
+addfriend 1 3
+addfriend 2 3
+addfriend 1 2
+removeprofile 1
+removeprofile 3
+createprofile
+1
+createprofile
+vinicius
+createprofile
+1
+createprofile
+vini
+createprofile
+2
+createprofile
+vinicius ferreira aguiar
+createprofile
+duds
+createprofile
+parana
+removeprofile 1
+removeprofile 3
+createprofile
+a
+createprofile
+b
+createprofile
+c
+removeprofile 4202304
+removeprofile 3
+createprofile
+e
+createprofile
+d
+removeprofile 4202304
+removeprofile 2
+createprofile
+a
+createprofile
+b
+removeprofile 4202400
+createprofile
+1
+createprofile
+2
+createprofile
+a
+createprofile
+b
+removeprofile 4202336
+removeprofile 2
+createprofile
+a
+createprofile
+b
+removeprofile 2
+createprofile
+a
+createprofile
+b
+removeprofile 2
+createprofile
+a
+createprofile
+b
+createprofile
+c
+createprofile
+d
+removeprofile 6
+createprofile
+a
+createprofile
+b
+removeprofile 2
+createprofile
+1
+createprofile
+b
+removeprofile 4202304
+removeprofile 2
+createprofile
+a
+createprofile
+b
+removeprofile 2
+removeprofile 1
+createprofile
+a
+createprofile
+b
+removeprofile 4202304
+removeprofile 2
+removeprofile 2
+removeprofile 1
+removeprofile 2
+removeprofile 1
+createprofile
+a
+createprofile
+b
+removeprofile 4202272
+removeprofile 2
+createprofile
+a
+createprofile
+b
+removeprofile 2
+createprofile
+john
+createprofile
+a
+createprofile
+b
+removeprofile 4202288
+createprofile
+a
+createprofile
+b
+removeprofile 4202288
+removeprofile 2
+createprofile
+a
+createprofile
+b
+removeprofile 4202272
+removeprofile 1
